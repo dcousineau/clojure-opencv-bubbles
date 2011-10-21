@@ -1,13 +1,9 @@
-# opencv-learnings
+# clojure-opencv-bubbles
 
-FIXME: write description
-
-## Usage
-
-FIXME: write
+Beware of leiningen and deps, the vision-1.0.0... jar pre-included in lib is custom assembled.
 
 ## License
 
-Copyright (C) 2011 FIXME
+Copyright (C) 2011 Daniel Cousineau
 
 Distributed under the Eclipse Public License, the same as Clojure.
