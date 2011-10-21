@@ -1,4 +1,4 @@
-(ns opencv-learnings.core
+(ns clojure-opencv-bubbles.core
     (:use [vision core] :reload-all)
     (:use [vector-2d core] :reload-all))
     
