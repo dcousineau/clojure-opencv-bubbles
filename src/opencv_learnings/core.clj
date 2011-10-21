@@ -67,8 +67,8 @@
                         
                         (make-awesome display rects)
                         
-                        (doseq [[x y w h] rects]
-                          (rectangle display [x y] [(+ w x) (+ h y)] java.awt.Color/red 5))
+                        ; (doseq [[x y w h] rects]
+                        ;   (rectangle display [x y] [(+ w x) (+ h y)] java.awt.Color/red 5))
                         
                         (view :motion display)
                         
